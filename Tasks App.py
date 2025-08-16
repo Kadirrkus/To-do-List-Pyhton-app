@@ -1,3 +1,9 @@
+## License
+
+# This project was created by **Abdulkadir Kuş**.  
+# All rights reserved. The code may not be copied, distributed, or used without explicit permission.
+
+
 from datetime import datetime
 import time
 
@@ -166,3 +172,4 @@ while True:
         break
     else:
         print("Invalid choice. Please enter a number between 1 and 8.")
+
